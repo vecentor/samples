@@ -27,3 +27,7 @@
 <p align="center">
     <img src="scalable.svg" width=512 height=512 />
 </p>
+
+<p align="center">
+    <img src="scalable.svg" width=768 height=768 />
+</p>
