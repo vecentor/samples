@@ -1055,7 +1055,7 @@
 ```
 
 <p align="center">
-    <img src="" width=512 height=512 />
+    <img src="businessman-vecentor.svg" width=512 height=512 />
 </p>
 
 ### Code
