@@ -19,3 +19,7 @@
 <p align="center">
     <img src="scalable.svg" width=128 height=128 />
 </p>
+
+<p align="center">
+    <img src="scalable.svg" width=256 height=256 />
+</p>
