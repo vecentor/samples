@@ -11,3 +11,7 @@
 </p>
 
 ## A sample with different sizes
+
+<p align="center">
+    <img src="scalable.svg" width=64 height=64 />
+</p>
